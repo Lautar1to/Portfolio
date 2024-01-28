@@ -53,6 +53,12 @@ body, html {
     color: #111;
   }
   
+  .h3titulo{
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    src: url('NeueHaasDisplay-XXThin.eot');
+    src: local('NeueHaasDisplay-XXThin'),
+
   /* Turn off parallax scrolling for tablets and phones */
   @media only screen and (max-device-width: 1024px) {
     .bgimg-1, .bgimg-2, .bgimg-3 {
